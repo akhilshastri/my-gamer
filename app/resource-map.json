@@ -1,0 +1,12 @@
+{
+  "/lib/cocos2d-js-v3.10.js":"./src/lib/cocos2d-js-v3.10.js"
+  ,"/lib/underscore.js":"/node_modules/underscore/underscore-min.js"
+
+
+ ,"/pages.json":"./mock-data/pages.json"
+ ,"/project.json":"./mock-data/project.json"
+
+
+ ,"/":"/index.html"
+ ,"/res/HelloWorld.png":"./src/res/HelloWorld.png"
+}
