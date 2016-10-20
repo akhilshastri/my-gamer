@@ -1,6 +1,7 @@
 /**
  * Created by Akhil on 17-10-2016.
  */
+import 'common.less';
 import m from './m';
 import titlePanel from './panels/title';
 import controlPanel from './panels/control';

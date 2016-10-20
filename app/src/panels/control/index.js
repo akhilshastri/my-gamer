@@ -1,6 +1,7 @@
 /**
  * Created by Akhil on 17-10-2016.
  */
+import './style.less';
 import m from 'm';
 
 var links = [

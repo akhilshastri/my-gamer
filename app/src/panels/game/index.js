@@ -1,7 +1,7 @@
 /**
  * Created by edisoni on 07.05.16.
  */
-import MainScreen from './mainScene' ;
+import MainScreen from './screen/mainScene' ;
 import gameResources from './res';
 
 cc.game.onStart = function(){

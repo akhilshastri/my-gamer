@@ -5,6 +5,7 @@
 
  ,"/pages.json":"./mock-data/pages.json"
  ,"/project.json":"./mock-data/project.json"
+ ,"/config.json":"./mock-data/config.json"
 
 
  ,"/":"/index.html"
