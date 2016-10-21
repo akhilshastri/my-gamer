@@ -1,7 +1,8 @@
 /**
  * Created by Akhil on 17-10-2016.
  */
-import 'common.less';
+import 'common.less';               // import LESS
+import './styles/animate.min.css' ;  // import CSS
 import m from './m';
 import titlePanel from './panels/title';
 import controlPanel from './panels/control';
